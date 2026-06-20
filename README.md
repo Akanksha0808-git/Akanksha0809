@@ -1,5 +1,6 @@
 # Akanksha0809
 PROFILE
+![](https://komarev.com/ghpvc/?username=Akanksha0808-git&label=Profile%20Views&color=brightgreen&style=for-the-badge)
 # 💫 About Me:
 🔭 I’m currently working on Java, Data Structures & Algorithms, and Full Stack Development projects<br><br>👯 I’m looking to collaborate on Web Development and Open Source Projects<br><br>🤝 I’m looking for help with System Design, Advanced DSA, and Backend Development<br><br>🌱 I’m currently learning Java, Spring Boot, SAP S/4HANA, and MERN Stack Development<br><br>💬 Ask me about Java, DSA, ReactJS, NodeJS, MongoDB, and Web Development<br><br>⚡ Fun fact: I enjoy combining creativity with technology through designing, painting, and coding innovative projects.
 
